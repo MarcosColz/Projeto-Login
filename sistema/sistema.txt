@@ -1,0 +1,1 @@
+Esta pasta irá guardar todas as páginas HTML e PHP, secundárias, do projeto
