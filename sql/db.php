@@ -2,7 +2,7 @@
 
 // Definimos aqui os parâmetros para gerar uma conexão MYSQLI 
 $servidor = "localhost";
-$nomeBD = "";
+$nomeBD = "aleatorio";
 $usuarioBD = "root";
 $senhaBD = "";
 
